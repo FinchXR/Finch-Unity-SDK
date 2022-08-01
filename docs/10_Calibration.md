@@ -8,7 +8,7 @@ In the SDK there is a process of connection and calibration of FinchShift contro
 The connection overlay will appear every time you launch the app. Go through the connection process - wait until all devices are automatically connected*.
 
 Press and hold the Home Button to connect a device. If you use only one FinchShift controller, you'll see the overlay with one controller on it:   
-<img src="pictures/calibration/1-Connect-One-Hand.png" width="600">
+<img src="pictures/Calibration/1-Connect-One-Hand.png" width="600">
 
 If you use a set of two FinchShift controllers, you'll see the overlay with two controllers on it. Press the Home buttons in turn on each controller one by one until you see the blue indication in each device’s interface:   
 <img src="pictures/calibration/2-Connect-Two-Hands.png" width="600">
