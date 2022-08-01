@@ -7,7 +7,7 @@ For the Developer's guide please follow the links:
 * [Build setup](./docs/02_Build-Setup.md)  
 * [How to set up custom scene](./docs/03_Setup-Custom-Scene.md)  
 * [Reference-API](./docs/05_Reference-API.md)  
-* [Known Issues for Finch Unity SDK v1.0.0](./docs/06_Known-Issues.md)  
+* [Known Issues for Finch Unity SDK](./docs/06_Known-Issues.md)  
 * [Release notes for Finch Unity SDK](./docs/07_Release_notes.md)  
 * [Prefab Description](./docs/09_Prefab-Description.md)  
 * [How to connect and calibrate FinchShift controllers](./docs/10_Calibration.md)  
