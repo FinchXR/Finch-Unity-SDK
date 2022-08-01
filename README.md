@@ -14,6 +14,6 @@ For the Developer's guide please follow the links:
 
 The latest release and documentation is available from the releases page:  
 * [v1.0.0](https://www.dropbox.com/sh/n9ddxh0faprz7g1/AABu315_gdv0eXL0c6kWIReNa?dl=0)  
-* [v1.0.1](!ADD!)  
+* [v1.0.1](https://www.dropbox.com/sh/x2bqr5297hziqqj/AACyerXakBCOkwqCNCwF3k6ca?dl=0)  
 
 You have any questions or want to report issues found in the SDK and documentation, please contact Yana Gabdullina: <yg@finchxr.com>.  
